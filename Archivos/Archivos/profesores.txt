@@ -1,0 +1,6 @@
+paula	ingeniera de sistemas	13
+jonier	ingeniero de sistemas	25
+betsy	ingeniera de sistemas	15
+nathalie	ingeniera electronica	12
+julian	matematico	15
+xxx	xxx	100

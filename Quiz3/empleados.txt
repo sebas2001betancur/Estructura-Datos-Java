@@ -1,0 +1,98 @@
+3391485	Juan Fernando Pérez del Corral	a termino fijo	23/10/1981	25/7/1991	11122616	director de proyectos
+15348990	Valentina Laverde de la Rosa	indefinido	11/8/1970	0/0/0000	4586424	gerente de compras
+43879470	Óscar de la Renta	indefinido	24/5/1981	0/0/0000	2750857	gerente de ingeniería
+71274253	Sara Teresa Sánchez del Pinar	indefinido	6/12/1964	0/0/0000	9199679	director de recursos humanos
+71753028	Efraín de las Casas Mejía	indefinido	5/1/1928	0/0/0000	10566358	director de finanzas
+3395502	Julieta Ponce de León	indefinido	16/9/2004	0/0/0000	5619175	director de mercadeo
+15371620	Martín Elías de los Ríos Acosta	indefinido	6/1/2004	0/0/0000	2007646	gerencia de proyectos
+43917284	Gabriela de la Pava de la Torre	indefinido	28/5/1917	0/0/0000	10970996	supervisor de proyecto
+71276760	Matías de Greiff Rincón	indefinido	21/11/1996	0/0/0000	7673311	coordinador de proyecto
+71756734	Manuela del Pino Hincapié	indefinido	10/11/1986	0/0/0000	10542606	supervisor civil
+3434940	Sebastián del Campo Yepes	indefinido	7/12/2005	0/0/0000	7239140	topógrafo
+15372865	Sofía del Río Arango	indefinido	19/7/1976	0/0/0000	7897040	seguridad
+43921639	Ana María de la Peña Posada	indefinido	12/9/1902	0/0/0000	10366111	Administrador
+71290974	Mónica Patricia de Ávalos Mendoza	indefinido	26/6/1912	0/0/0000	7191301	Agente de Bienes Raíces
+71763477	Hugo Andrés Camargo Vargas	indefinido	14/1/1932	0/0/0000	10276226	Agente de Seguros
+3438610	Ingrid Rocio Guerrero Penagos	indefinido	22/6/1969	0/0/0000	3581541	Agrónomo
+15387873	Iván David Coral Burgano	indefinido	28/12/2015	0/0/0000	2238722	Analista de Crédito y Cobro
+43973703	Ivonne Jouliette Barrera López	indefinido	19/4/1964	0/0/0000	4699662	Analista de Sistemas
+71291657	Jenny Fernanda Sánchez Arenas	a termino fijo	1/11/1973	25/7/1991	3451742	Arquitecto
+71776796	Jenny Viviana Moncaleano Preciado	a termino fijo	10/8/1945	17/01/1965	10527956	Asesor Legal
+3569779	Jorge Esteban Rey Botero	a termino fijo	16/6/1908	13/10/1999	7628502	Asistente Administrativo
+15438742	Jorge Mario Orozco Dussán	a termino fijo	30/4/1991	11/4/2006	4285705	Asistente Dental
+51716561	José Guillermo Marín Zubieta	a termino fijo	3/1/1926	25/11/1990	4293229	Auditor
+71291984	Juan Camilo Ortega Peña	a termino fijo	20/11/1901	16/2/1920	3249252	Auxiliar de Contabilidad
+71780271	Juan Camilo Jiménez Cortes	a termino fijo	16/1/1999	24/08/2008	2533111	Auxiliar de Enfermería
+5654518	Juan Esteban Lanao Sánchez	a termino fijo	17/2/1999	3/03/2009	3341408	Auxiliar de Inventarios
+15509471	Juan Fernando Barjuch Moreno	a termino fijo	12/2/1956	10/08/1985	7214363	Cajero de Banco
+70082010	Juan Sebastián Romero Escobar	a termino fijo	11/6/1951	25/09/1981	3727143	Cajero de Comercio
+71292072	Juan Sebastián Tarquino Acosta	a termino fijo	8/9/2015	8/06/2020	8207942	Capacitador
+71780379	Juan Sebastián Sánchez Sánchez	a termino fijo	24/6/1933	26/03/2005	8403924	Chofer
+8027333	Julián Romero Montoya	a termino fijo	14/9/2009	18/03/2019	6375194	Chofer Repartidor
+16535118	Julián Leonardo Sánchez Prada	a termino fijo	4/4/1908	10/05/1972	10972766	Cocinero
+70097151	Juliana Gaviria García	a termino fijo	26/5/1952	18/11/1980	9718253	Consultor Gerencial
+71292969	July Catherine González Suarez	a termino fijo	20/7/1928	14/4/1954	3184638	Consultora de Belleza
+71783394	Karen Eliana Hernández Pulido	a termino fijo	22/2/1916	9/9/2019	10055748	Contador
+8031484	Laura Diaz Mejía	a termino fijo	2/6/1924	30/3/1991	4836546	Cosmetóloga
+17689604	Laura Camila Puerto Castro	a termino fijo	17/3/1991	18/5/1948	2022490	Counter Agencia de Viajes
+70129879	Laura Catalina Varón Buitrago	a termino fijo	5/6/1940	12/10/1947	9432458	Counter de Hotel
+71311216	Laura Fernanda Rodríguez Torres	a termino fijo	10/9/1914	13/12/1919	4889024	Degustadora
+71790864	Laura Fernanda Novoa Torres	a termino fijo	9/4/1966	25/4/2017	1872346	Digitador
+8033058	Laura Natalia Novoa Gómez	a termino fijo	19/2/1972	14/6/1962	8795455	Director Académico
+18531862	Laura Viviana Del Río Ayerbe	a termino fijo	25/11/1982	28/4/1902	5595409	Director de Arte
+70422383	Leonardo Andrés Dueñas Rojas	a termino fijo	24/5/1936	3/11/1983	9529126	Diseñador de Interiores
+71312319	Ricardo Vega Zambrano	a termino fijo	7/5/1975	20/2/2003	10638936	Diseñador de Páginas Web
+71890928	Ricardo Vega Zambrano	a termino fijo	26/12/1908	9/8/2021	5737123	Diseñador Gráfico
+8061878	Sandra Ximena Garcés Parra	a termino fijo	12/7/1977	24/6/1979	2810540	Ejecutivo de Cuentas Bancarias
+18617297	Sebastián Borda Melguizo	a termino fijo	28/1/1953	13/8/1920	3316463	Ejecutivo de Cuentas de Publicidad
+70513621	Sebastián Iregui Galeano	a termino fijo	18/6/1914	24/6/1903	5203971	Encargado de Bodega
+71315457	Yiriam Liliam Ochoa Sabogal	a termino fijo	17/2/1993	17/9/1901	5427040	Encargado de Cuentas
+71936485	Yiriam Liliam Cifuentes Sabogal	a termino fijo	20/2/1945	22/8/1996	10474634	Encargado de Mantenimiento
+8062825	Yurany Catalina Cifuentes Méndez	a termino fijo	6/7/1925	1/10/1973	5092439	Encargado de Planillas
+21526398	Yuri Catalina Salazar Aristizábal	a termino fijo	2/9/1976	1/7/1945	8728195	Encargado de Relaciones Públicas
+70553775	Adriana Carolina Hernández Monterroza	a termino fijo	21/3/1952	27/11/2016	10643356	Encargado de Seguridad Informática
+71362530	Adriana Marcela Rey Sánchez	a termino fijo	10/5/1999	20/11/1949	11490470	Encargado: Importaciones/Exportaciones
+74768959	Alejandro Abondano Acevedo	a termino fijo	1/8/1971	14/2/2004	8580060	Electricista
+8064063	Alexander Carvajal Vargas	a termino fijo	20/9/1984	25/4/1916	3696812	Enfermera
+28162720	Andrea Catalina Acero Caro	indefinido	14/6/1958	0/0/0000	3830161	Farmacéutico
+70557171	Andrea Liliana Cruz García	indefinido	7/4/1901	0/0/0000	4625685	Gerente de Alimentos y Bebidas
+71370336	Andrés Felipe Villa Monroy	indefinido	19/3/1977	0/0/0000	11807669	Gerente de Call Center
+77398883	Angela Patricia Mahecha Piñeros	indefinido	19/4/1901	0/0/0000	7084382	Gerente de Compras
+8102308	Natalia Buitrago Contreras	indefinido	17/12/1938	0/0/0000	8732155	Gerente de Distribución
+29562622	Natalia Puentes Perdomo	indefinido	10/3/1917	0/0/0000	8627524	Gerente de Informática
+70558183	Natalia Andrea Gutiérrez Velasco	indefinido	7/6/2002	0/0/0000	10356547	Gerente de Inventario
+71370414	Natalia Melissa Barrero Forero	indefinido	21/11/1941	0/0/0000	4890122	Gerente de Logística
+78299170	Natalia Vivy Casas Páez	indefinido	29/11/1920	0/0/0000	4222873	Gerente de Marca
+8106338	Olga Stephannia Samán Jiménez	indefinido	1/7/1953	0/0/0000	9293837	Gerente de Mercadeo
+30374673	Olga Viviana Ovalle Solano	a termino fijo	30/3/1937	9/11/1944	5425277	Gerente de Operaciones
+70560175	Oscar Fabian Castellanos Rojas	a termino fijo	10/11/1921	15/5/1934	7169256	Gerente de Personal
+71372526	Oscar David Colmenares Barbudo	a termino fijo	30/9/1920	21/9/1913	5498131	Gerente de Planeación Estratégica
+79395618	Oscar Julián Ulloa Orjuela	a termino fijo	9/6/1998	8/8/1953	5958416	Gerente de Planta
+8160608	Pablo Uribe Antia	a termino fijo	4/9/1912	4/3/1989	4426178	Gerente de Producto
+32533378	Paola Andrea Correa Larios	a termino fijo	13/5/1914	19/2/1911	4112182	Gerente de Proyectos
+70752793	Rafael Alejandro González Rojas	a termino fijo	11/4/1992	8/10/1989	6074163	Gerente de Recursos Humanos
+71373198	Rafael Andrés González Castillo	a termino fijo	29/11/1930	12/10/2021	10196033	Gerente de Servicio al Cliente
+79803359	Rafael Andrés Álvarez Castillo	a termino fijo	12/4/1971	17/1/1913	7590569	Gerente de Servicios de Salud
+8308952	Lina María Zúñiga Ramírez	a termino fijo	14/6/1954	9/1/2011	7086910	Gerente de Sistemas de Información
+39215415	Liseth Tatiana Sierra Villamil	a termino fijo	5/11/1915	26/1/1907	5818382	Gerente de Ventas
+70856702	Luisa Fernanda García Fonnegra	a termino fijo	19/4/1934	16/11/1920	1475479	Gerente Financiero
+71373807	Marcela García Rueda	a termino fijo	8/8/1944	27/11/1983	9671492	Gerente General Comercial
+79888781	María Alejandra Bolívar Galeano	a termino fijo	14/6/1919	28/10/1906	8248826	Gerente General Industrial
+8345886	María Alejandra Horta Ochoa	a termino fijo	3/10/1992	30/4/1915	8441948	Gerente General Sevicios
+41282789	María Angélica Beltrán Castillo	a termino fijo	29/12/1955	1/5/2013	1468948	Guarda de Seguridad
+70879304	María Camila Guacas Jiménez	a termino fijo	20/8/1962	6/11/1901	9307702	Ingeniero de Sistemas de Información
+71384247	María Camila Nieto Bustos	a termino fijo	3/7/1944	12/2/1906	11095622	Ingeniero de Ventas
+79948977	María José García Mora	a termino fijo	3/1/1902	30/11/1977	4287921	Investigador de Mercados
+8356396	María Margarita Pérez Moreno	a termino fijo	5/2/1992	10/11/1990	4785637	Jefe de Control de Calidad
+42749761	María Natalia Cervantes Luna	a termino fijo	19/5/1992	30/11/1975	8286973	Jefe de Crédito: Comercial
+70879370	Mariana Del Pilar Santos Milachay	a termino fijo	26/4/1963	15/2/2003	2612908	Jefe de Personal
+71385078	Mario Fernando Garzón Muñoz	a termino fijo	22/6/1906	22/5/1957	6769768	Jefe de Seguridad
+80888645	Mónica Alexandra Camacho Amaya	a termino fijo	14/3/2002	29/7/1918	10031837	Mecánico Automotriz
+8356837	Mónica Natalia Camargo Mendoza	a termino fijo	20/9/1996	3/12/1938	3173328	Mecánico Industrial
+42781771	Omar de Jesus Restrepo Hernadez	a termino fijo	10/11/1906	6/6/1912	10861394	Mensajero
+71003699	Mónica Natalia Camargo Mendoza	a termino fijo	5/9/1990	23/11/1953	6496937	Misceláneo
+71393806	Pedro Alonso Camargo Jimenez	a termino fijo	26/2/1915	11/12/1940	7318005	Montacarguista
+86014446	Maria Jose Agudelo Zapata	a termino fijo	7/5/2005	23/5/2021	4747757	Motivador
+8356942	Carlos Mario Zapata Jaramillo	a termino fijo	16/1/1969	23/2/2019	2554641	Nutricionista
+42787633	Pedro Emilio Isaza Perez	a termino fijo	28/7/1984	8/2/1928	7666844	Oficinista
+71170773	Diego Alberto Soto Osorio	a termino fijo	1/6/1961	25/1/1909	9096889	Periodista

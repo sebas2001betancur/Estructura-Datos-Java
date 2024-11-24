@@ -1,0 +1,1 @@
+SolicitudCredito{tipo='tarjeta', id='1005911567', fecha='2024-11-13', valor=22.000.000,00, cuotas=18, estado='aprobado'}

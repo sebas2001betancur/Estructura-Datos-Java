@@ -1,0 +1,1 @@
+Cliente{id='1005911567', tipo='natural', nombre='sebastian', direccion='carrera43', telefono='3003560070', tipoContrato='indefinido', salarioMensual=3500000.0}
